@@ -56,10 +56,6 @@ public:
 
 int main() 
 {
-    cout << "\t\t*******************************************************************************" << endl;
-    cout << "\t\t***This lab assignment is submitted by Heli Patel with student ID 143017226 ***" << endl;
-    cout << "\t\t*******************************************************************************" << endl;
-
     int numPCs;
 
     cout << endl << "How many PCs you want to order: ";
